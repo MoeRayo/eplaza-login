@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeRayo/eplaza-login.git"
+  },
   "author": "Moronfolu Olufunke",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoeRayo/eplaza-login/issues"
+  },
+  "homepage": "https://github.com/MoeRayo/eplaza-login#readme"
 }
