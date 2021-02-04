@@ -4,21 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/tachyons.css">
-    <title>Member Login</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400&display=swap" rel="stylesheet"> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+       <title>Member Login</title>
+       
 </head>
-<body class="h-100">
-    <main class="bg-red h-100">
-        <section class="mw7 bg-green center h-100">
-            <section class="fl w-50 pa2 bg-yellow">
+<body class="h-100 overflow-hidden titillium">
+    <main class="h-100">
+        <section class="mw7 bg-washed-red center h-100">
+            <section class="fl w-60 mv6 pl5 pt5 pr4">
                 <img src="./assets/image.svg" alt="a woman pushing shopping cart">
             </section>
-            <form class="fl w-50 pa2 bg-blue" action="">
-               <span class="before">Merchant Login</span>
-               <input type="text" value="" placeholder="Username">
-               <input type="password" name="" id="" placeholder="Username">
-               <a href="#">Forgot Password?</a>
-               <button type="submit">Sign In</button>
-            <p>2020 &copy;</p>
+            <form class="fl w-40 mv6 pt5" action="">
+               <span class="before db black-50 pb2 f4">Merchant Login</span>
+               <input type="text" value="" class="db pv3 br1 bn w-85 pv2 ph3" placeholder="Username">
+               <input type="password" class="db br1 bn w-85 pv3 ph3 mv3" name="" id="" placeholder="Password">
+               <a class="db link black-50" href="#">Forgot Password?</a>
+               <button class="db center signin pa3 ttu white br1 bn mt3" type="submit">Sign In <i class="fas fa-sign-in-alt"></i></button>
+            <p class="tc black-50 f6">2020 &copy;</p>
 
             
             </form>

@@ -1,6 +1,10 @@
+.signin {
+  background-color: #60C090;
+}
 /*! TACHYONS v4.12.0 | http://tachyons.io */
 /*
  *
+ 
  *      ________            ______
  *      ___  __/_____ _________  /______  ______________________
  *      __  /  _  __ `/  ___/_  __ \_  / / /  __ \_  __ \_  ___/
@@ -733,6 +737,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .calisto { font-family: "Calisto MT", serif; }
 .garamond { font-family: garamond, serif; }
 .baskerville { font-family: baskerville, serif; }
+.titillium{
+  font-family: 'Titillium Web', sans-serif;
+}
 /*
 
    FONT STYLE
@@ -991,6 +998,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .w-70 { width: 70%; }
 .w-75 { width: 75%; }
 .w-80 { width: 80%; }
+.w-85 { width: 85%;}
 .w-90 { width: 90%; }
 .w-100 { width: 100%; }
 .w-third { width: 33.33333%; }
@@ -1495,7 +1503,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .pv0 { padding-top: 0; padding-bottom: 0; }
 .pv1 { padding-top: .25rem; padding-bottom: .25rem; }
 .pv2 { padding-top: .5rem; padding-bottom: .5rem; }
-.pv3 { padding-top: 1rem; padding-bottom: 1rem; }
+.pv3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
 .pv4 { padding-top: 2rem; padding-bottom: 2rem; }
 .pv5 { padding-top: 4rem; padding-bottom: 4rem; }
 .pv6 { padding-top: 8rem; padding-bottom: 8rem; }
@@ -1736,7 +1744,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .f1 { font-size: 3rem; }
 .f2 { font-size: 2.25rem; }
 .f3 { font-size: 1.5rem; }
-.f4 { font-size: 1.25rem; }
+.f4 { font-size: 1.18rem; }
 .f5 { font-size: 1rem; }
 .f6 { font-size: .875rem; }
 .f7 { font-size: .75rem; }
