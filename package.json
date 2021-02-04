@@ -1,0 +1,11 @@
+{
+  "name": "eplaza-login",
+  "version": "1.0.0",
+  "description": "A login demo for eplaza",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moronfolu Olufunke",
+  "license": "ISC"
+}
