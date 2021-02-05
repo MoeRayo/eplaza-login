@@ -992,7 +992,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .w-30 { width: 30%; }
 .w-33 { width: 33%; }
 .w-34 { width: 34%; }
-.w-40 { width: 40%; }
+.w-40 { width: 48.5%; }
 .w-50 { width: 50%; }
 .w-60 { width: 60%; }
 .w-70 { width: 70%; }
@@ -1472,7 +1472,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .pl1 { padding-left: .25rem; }
 .pl2 { padding-left: .5rem; }
 .pl3 { padding-left: 1rem; }
-.pl4 { padding-left: 2rem; }
+.pl4 { padding-left: 3rem; }
 .pl5 { padding-left: 4rem; }
 .pl6 { padding-left: 8rem; }
 .pl7 { padding-left: 16rem; }
@@ -1498,7 +1498,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .pt3 { padding-top: 1rem; }
 .pt4 { padding-top: 2rem; }
 .pt5 { padding-top: 4rem; }
-.pt6 { padding-top: 8rem; }
+.pt6 { padding-top: 7.5rem; }
 .pt7 { padding-top: 16rem; }
 .pv0 { padding-top: 0; padding-bottom: 0; }
 .pv1 { padding-top: .25rem; padding-bottom: .25rem; }
@@ -1553,7 +1553,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .mt2 { margin-top: .5rem; }
 .mt3 { margin-top: 1rem; }
 .mt4 { margin-top: 2rem; }
-.mt5 { margin-top: 4rem; }
+.mt5 { margin-top: 6rem; }
 .mt6 { margin-top: 8rem; }
 .mt7 { margin-top: 16rem; }
 .mv0 { margin-top: 0; margin-bottom: 0; }
@@ -3148,7 +3148,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .pl2-l { padding-left: .5rem; }
  .pl3-l { padding-left: 1rem; }
  .pl4-l { padding-left: 2rem; }
- .pl5-l { padding-left: 4rem; }
+ .pl5-l { padding-left: 6rem; }
  .pl6-l { padding-left: 8rem; }
  .pl7-l { padding-left: 16rem; }
  .pr0-l { padding-right: 0; }
@@ -3237,7 +3237,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .mv3-l { margin-top: 1rem; margin-bottom: 1rem; }
  .mv4-l { margin-top: 2rem; margin-bottom: 2rem; }
  .mv5-l { margin-top: 4rem; margin-bottom: 4rem; }
- .mv6-l { margin-top: 8rem; margin-bottom: 8rem; }
+ .mv6-l { margin-top: 9rem; margin-bottom: 9rem; }
  .mv7-l { margin-top: 16rem; margin-bottom: 16rem; }
  .mh0-l { margin-left: 0; margin-right: 0; }
  .mh1-l { margin-left: .25rem; margin-right: .25rem; }
